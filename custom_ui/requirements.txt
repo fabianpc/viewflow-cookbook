@@ -1,0 +1,5 @@
+pytz
+django~=2.2
+django-material-pro<2.0
+django-viewflow-pro<2.0
+
